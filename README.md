@@ -1,2 +1,2 @@
 # Benacom
-Practicing Coding
+Coding Exercises
