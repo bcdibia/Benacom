@@ -1,0 +1,10 @@
+#ascii_lowercase
+
+import string, random
+from builtins import dict, zip
+
+
+list1 = list((string.ascii_lowercase))
+list2 = [*range(1, 27, 1)]
+dict_1 = dict(zip(list1, list2))
+print(dict_1['p'])
