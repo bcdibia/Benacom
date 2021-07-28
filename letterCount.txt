@@ -1,0 +1,4 @@
+#letterCount
+
+def letterCount(letters, letter):
+    return letters.count(letter)
